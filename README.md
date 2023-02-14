@@ -10,7 +10,7 @@
 </div>
 <h1 align="center"><a href="https://github.com/tomararun"><img width=7% height=15% src="https://raw.githubusercontent.com/tomararun/tomararun/ouput/Hi.gif"/></a> I'm a
    <a href="https://github.com/tomararun">
-   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?
+   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Cloud+Computing+Enthusiast;Cybersecurity+Passionate;Machine+Learning+Practitioner;Computer+Science+Undergrad;Tech+Blogger" />                           
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
