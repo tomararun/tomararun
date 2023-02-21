@@ -79,3 +79,13 @@
       <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="12.5%" height="12.5%" />
       </a>
+   </p>
+</div>
+<div align=center>
+   <a href="https://github.com/tomararun">
+   <img height=50 width=100% src="https://raw.githubusercontent.com/tomararun/tomararun/ouput/divider.gif">
+   </a>
+</div>
+<div align="left">
+<a href="https://github.com/tomararun">
+<img align="right" width=40% alt="Github" src="https://raw.githubusercontent.com/tomararun/tomararun/ouput/github.gif">
