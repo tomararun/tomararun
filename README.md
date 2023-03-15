@@ -89,3 +89,13 @@
 <div align="left">
 <a href="https://github.com/tomararun">
 <img align="right" width=40% alt="Github" src="https://raw.githubusercontent.com/tomararun/tomararun/ouput/github.gif">
+</a>
+<br>
+<a href="https://tomararun.github.io">
+<img width=45% height=100% src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=My%20Website&logo=Github&style=for-the-badge&up_message=RUNNING&url=https%3A%2F%2Ftomararun.github.io" />
+</a>
+<br>
+<a href="https://github.com/tomararun">
+<img width=45% height=40% src="http://profileviews.azurewebsites.net/"/>
+</a>
+<br>
