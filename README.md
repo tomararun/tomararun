@@ -112,3 +112,21 @@
    </a>
 </div>
 <h2></h2>
+<!--   
+   <div align="center">
+       <a href="https://github.com/tomararun">
+           <img src="https://github-profile-trophy.vercel.app/?username=tomararun&no-bg=true&theme=onedark&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,Stars&column=5" alt="zumrudu-anka" />
+       </a>
+   </div>
+   -->
+<div align=center>
+   <a href="https://github.com/tomararun">
+   <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=tomararun&theme=redical&hide_border=true" />
+   </a>
+</div>
+<h2></h2>
+<div align=center>
+   <a href="https://github.com/tomararun" target="_blank">
+   <img align=center width=100% src="https://raw.githubusercontent.com/tomararun/tomararun/main/3DGraphs/profile-night-rainbow.svg" />
+   </a>
+</div>
