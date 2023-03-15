@@ -130,3 +130,25 @@
    <img align=center width=100% src="https://raw.githubusercontent.com/tomararun/tomararun/main/3DGraphs/profile-night-rainbow.svg" />
    </a>
 </div>
+<h2></h2>
+<div align=center>
+   <a href="https://github.com/tomararun">
+   <img width=49% src="https://raw.githubusercontent.com/tomararun/tomararun/main/achievements.svg" />
+   <img width=49% src="https://raw.githubusercontent.com/tomararun/tomararun/main/skyline.svg" />
+   </a>
+</div>
+<div align=center>
+   <a href="https://github.com/tomararun">
+   <img height=50 width=100% src="https://raw.githubusercontent.com/tomararun/tomararun/ouput/divider.gif">
+   </a>
+</div>
+<div align=center>
+   <a href="https://github.com/tomararun">
+   <img align="center" alt="Coding" width=49% height=100% src="https://raw.githubusercontent.com/tomararun/tomararun/main/img/connected.gif" />
+   </a>
+   <a href="https://github.com/tomararun">
+   <img align="center" alt="Coding" width=49% height=100% src="https://raw.githubusercontent.com/tomararun/tomararun/main/img/code.gif" />
+   </a>
+   <!-- <a href="https://www.linkedin.com/in/arunkumartomar/">
+      <img align=center alt="Footer" width=49% src="https://linkedin-github.herokuapp.com/api/render/tomar%20arun/Tech%20Enthusiast/Student/Bachelor%20of%20Technology/dark-red/https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F36451386%3Fv%3D4" />
+      </a> -->
