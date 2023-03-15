@@ -95,3 +95,7 @@
    <img height=50 width=100% src="https://raw.githubusercontent.com/tomararun/tomararun/ouput/divider.gif">
    </a>
 </div>
+<h2 align="center"><a href="https://github.com/tomararun"><img alt="Star" width=20% src="https://raw.githubusercontent.com/tomararun/tomararun/ouput/star.gif"><img width=80% alt="My Stats" src="./img/mystats.svg"/></a></h2>
+<div align="center">
+   <a href="https://github.com/tomararun">
+   <img src="https://github-readme-stats.vercel.app/api?username=tomararun&show_icons=true&locale=en&langs_count=20&count_private=true&theme=radical&layout=compact&hide_border=false&bg_color=000000&border_color=808080" width=49% height=100%/>
