@@ -126,8 +126,9 @@
 </div>
 <h2></h2>
 <div align=center>
-   <a href="https://github.com/tomararun" target="_blank">
+    <a href="https://github.com/tomararun" target="_blank">
    <img align=center width=100% src="https://raw.githubusercontent.com/tomararun/tomararun/main/3DGraphs/profile-night-rainbow.svg" />
+   
    </a>
 </div>
 <h2></h2>
