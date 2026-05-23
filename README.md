@@ -23,7 +23,7 @@
       <br>
       👯 I’m looking to collaborate on:
       <a href="https://github.com/tomararun">
-      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F7BB45&center=true&vCenter=true&width=250%&height=50%&lines=ML+Projects;Web+Projects;Cloud+Deployment" /></a>
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F7BB45&center=true&vCenter=true&width=250%&height=50%&lines=AI+Projects;Web+Projects;Cloud+Deployment;AI+Automation" /></a>
       <br>
       💬 Talk to me all about:
       <a href="https://github.com/tomararun">
