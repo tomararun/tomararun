@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Typing SVG — cycles through your roles automatically -->
-<div align="center">
+ <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Cloud-Native+Engineer;React+%C2%B7+Node.js+%C2%B7+TypeScript;Performance+%26+Security+Specialist;Open+to+Remote+Opportunities+%F0%9F%8C%8D" alt="Typing SVG" />
   </a>
