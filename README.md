@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Arun%20Kumar%20Tomar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Cloud-Native%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Arun Kumar Tomar — Full-Stack Developer | Cloud-Native Engineer" />
 </div>
-
+-
 <!-- Profile view counter -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tomararun&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
