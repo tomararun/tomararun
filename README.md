@@ -128,9 +128,18 @@ Full-stack responsive booking system with real-time room availability tracking, 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 4 hrs 53 mins
 
-No activity tracked
+Markdown      1 hr 58 mins          █████████▒░░░░░░░░░░░░░░░   36.69 %
+TypeScript    1 hr 33 mins          ███████▒░░░░░░░░░░░░░░░░░   29.04 %
+Other         28 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
+YAML          28 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
+HTML          23 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
+Git Config    17 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+JavaScript    5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Prisma        2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Docker        1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Image (svg)   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
