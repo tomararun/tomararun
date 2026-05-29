@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Arun%20Kumar%20Tomar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Cloud-Native%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Arun Kumar Tomar — Full-Stack Developer | Cloud-Native Engineer" />
 </div>
--
+
 <!-- Profile view counter -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tomararun&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -126,22 +126,6 @@ Full-stack responsive booking system with real-time room availability tracking, 
 ## ⏱ WakaTime Coding Activity
 
 <!--START_SECTION:waka-->
-
-```txt
-Total Time: 5 hrs 47 mins
-
-TypeScript    2 hrs 3 mins          ███████▓░░░░░░░░░░░░░░░░░   30.82 %
-Markdown      2 hrs 2 mins          ███████▓░░░░░░░░░░░░░░░░░   30.61 %
-Other         53 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.37 %
-HTML          39 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
-YAML          30 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
-Git Config    17 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
-JavaScript    8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-Image (svg)   2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-Docker        1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-JSON          1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
@@ -189,16 +173,6 @@ JSON          1 min                 ░░░░░░░░░░░░░░�
 ## 🌱 Currently learning
 
 I'm actively building toward **cloud-native full-stack engineering** — deepening my knowledge of distributed systems, container orchestration (Kubernetes), serverless architectures on AWS, and infrastructure-as-code. My Oracle Cloud certifications are the foundation; the goal is to design systems that scale without babysitting.
-
----
-
-## 🔬 Research
-
-**Real-time Object Detection using YOLOv9** *(Oct 2023 – Jun 2024)*
-Proposed a dual-model architecture (PGI + lightweight GELAN) addressing information loss in deep networks. Evaluated on Roboflow Universe datasets, achieving state-of-the-art offline classification accuracy.
-
-**Detecting Botnet Activity using Discriminative Boosted Bayesian Networks** — *Published in IJRASET*
-Applied statistical relational learning on the CTU-13 dataset to detect botnet activity from sparse data. Benchmarked against random forest and naive Bayes classifiers.
 
 ---
 
