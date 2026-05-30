@@ -126,22 +126,6 @@ Full-stack responsive booking system with real-time room availability tracking, 
 ## ⏱ WakaTime Coding Activity
 
 <!--START_SECTION:waka-->
-
-```txt
-Total Time: 5 hrs 47 mins
-
-TypeScript    2 hrs 3 mins          ███████▓░░░░░░░░░░░░░░░░░   30.82 %
-Markdown      2 hrs 2 mins          ███████▓░░░░░░░░░░░░░░░░░   30.61 %
-Other         53 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.37 %
-HTML          39 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
-YAML          30 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
-Git Config    17 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
-JavaScript    8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-Image (svg)   2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-Docker        1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-JSON          1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
@@ -170,19 +154,6 @@ JSON          1 min                 ░░░░░░░░░░░░░░�
 - **Global Hack Week — Data Week** — Finished in the **top 1%** of all participants worldwide
 - **Global Hack Week — Open Source** — Finished in the **top 1%** of all participants worldwide
 - **HackerRank** — 5-star rating in Java and Python
-
----
-
-## 🎓 Certifications
-
-| Certification | Issuer | Year |
-|---|---|---|
-| Oracle Cloud Infrastructure Certified Foundations Associate | Oracle | 2024 |
-| Oracle Cloud Infrastructure AI Certified Foundations Associate | Oracle | 2024 |
-| Oracle Cloud Infrastructure Certified Developer Professional | Oracle | 2024 |
-| Oracle APEX Cloud Developer Certified Professional | Oracle | 2024 |
-| GitHub Advanced Security Certificate | GitHub | 2024 |
-| AI Programming with Python Nanodegree | Udacity / AWS | 2023 |
 
 ---
 
