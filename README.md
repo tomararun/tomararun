@@ -126,6 +126,22 @@ Full-stack responsive booking system with real-time room availability tracking, 
 ## ⏱ WakaTime Coding Activity
 
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 5 hrs 36 mins
+
+Markdown        2 hrs 7 mins          ████████░░░░░░░░░░░░░░░░░   31.86 %
+TypeScript      1 hr 26 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.61 %
+Other           1 hr 3 mins           ████░░░░░░░░░░░░░░░░░░░░░   15.78 %
+HTML            40 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
+YAML            30 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
+Apache Config   22 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
+Git Config      17 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+JavaScript      7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+Docker          1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+JSON            1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
