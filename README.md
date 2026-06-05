@@ -128,18 +128,18 @@ Full-stack responsive booking system with real-time room availability tracking, 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 48 mins
+Total Time: 2 hrs 9 mins
 
-Other           56 mins               ████████▓░░░░░░░░░░░░░░░░   34.23 %
-TypeScript      52 mins               ████████░░░░░░░░░░░░░░░░░   31.75 %
-Apache Config   22 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.63 %
-HTML            17 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
-JavaScript      7 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
-Markdown        7 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
-nvmrc           0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+TypeScript      1 hr 24 mins          ████████████▓░░░░░░░░░░░░   50.21 %
+Other           38 mins               █████▓░░░░░░░░░░░░░░░░░░░   23.13 %
+Apache Config   22 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 %
+HTML            11 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
+Markdown        4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+JavaScript      4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+nvmrc           0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 Image (svg)     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-YAML            0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 Git Config      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+JSON            0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
