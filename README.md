@@ -128,12 +128,10 @@ Full-stack responsive booking system with real-time room availability tracking, 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 8 mins
+Total Time: 1 hr 4 mins
 
-TypeScript   1 hr 4 mins           ███████████████████░░░░░░   76.11 %
-Other        15 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.61 %
-JavaScript   4 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
-HTML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+TypeScript   1 hr 4 mins           ██████████████████████▓░░   90.56 %
+Other        6 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
 ```
 
 <!--END_SECTION:waka-->
